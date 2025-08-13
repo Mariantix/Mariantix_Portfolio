@@ -109,3 +109,8 @@ video {
     padding: 10%;
 }
 
+.projimage {
+  padding: 15%;
+  float: center;
+  width: 120px;
+}
